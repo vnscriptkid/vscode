@@ -2,6 +2,7 @@
 
 ## Extensions
 * Material Icon Theme
+* Bracket Pair Colorizer
 
 ## Features
 * `File` > ✔️ `Auto Save`
